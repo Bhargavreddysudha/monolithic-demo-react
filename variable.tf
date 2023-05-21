@@ -1,0 +1,10 @@
+variable "region" {}
+variable "profile" {}
+variable "cidr" {}
+variable "envname" {}
+variable "pubsubnets" {}
+variable "privsubnets" {}
+variable "datasubnets" {}
+variable "azs" {}
+variable "ami" {}
+variable "type" {}
